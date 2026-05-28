@@ -4,7 +4,7 @@
 A modern and responsive NGO website created as part of the internship selection process for She Can Foundation. The website was designed to spread awareness, emotionally connect with visitors, and encourage support for meaningful social causes.
 
 🔗 **Live Website:**
-[She Can Foundation Website](https://shecanfoundation-ann.netlify.app/?utm_source=chatgpt.com)
+[She Can Foundation Website](https://shecanfoundation-ann.netlify.app/)
 
 ---
 
