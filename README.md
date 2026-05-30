@@ -74,6 +74,3 @@ This project was inspired by the meaningful work done by NGOs and communities th
 
 ---
 
-## 👩‍💻 Author
-
-Created with ❤️ by Ann
